@@ -10,7 +10,7 @@ Place the preference.js file in...
 
 - For Mac OS X, right-click on the Firefox.app to select "Show Package Contents", then drill down to Contents > MacOS > defaults > pref.
 - For Windows XP, the file should be placed in the same directory as the Firefox executable, e.g. C:\Program Files\Mozilla Firefox\defaults\pref
-- For Windows 7, the Firefox executable is usually in C:\Program Files x86\Mozilla Firefox\defaults\pref
+- For Windows 7, the default preferences are usually in C:\Program Files x86\Mozilla Firefox\defaults\pref
 
 Place the settings.cfg file alongside the Firefox executable...
 

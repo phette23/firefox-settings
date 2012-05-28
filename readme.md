@@ -16,6 +16,6 @@ Place the settings.cfg file alongside the Firefox executable...
 
 - For Mac OS X, that's Firefox.app then "Show Package Contents" > Contents > MacOS
 - For Windows XP, that's C:\Program Files\Mozilla Firefox\
-- For Windows 7, that's C:\Program Files x86\Mozilla Firefox\
+- For Windows 7, that's C:\Program Files (x86)\Mozilla Firefox\
 
 Start up Firefox, peruse the preferences and about:config to make sure that everything's been correctly applied. Logically, this file should work on any version of Firefox but I haven't tested on that many.

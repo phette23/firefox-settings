@@ -21,3 +21,5 @@ Place the settings.cfg file alongside the Firefox executable...
 - For older versions of Firefox on Windows 7, the executable was in C:\Program Files (x86)\Mozilla Firefox\
 
 Start up Firefox, peruse the preferences and about:config to make sure that everything's been correctly applied. Logically, this file should work on any version of Firefox but I haven't tested on that many.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-29080462-2/your-repo/page-name?pixel)](https://github.com/igrigorik/ga-beacon)
